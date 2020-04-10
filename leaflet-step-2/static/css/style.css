@@ -8,3 +8,15 @@ body,
 html {
   height: 100%;
 }
+
+.legend { 
+  border:  2px solid darkslategray;
+  border-radius: 5px;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  width: 40px;
+  line-height: 18px;
+  background: white;
+  opacity: 1;
+}
